@@ -11,11 +11,6 @@
     A narrative-driven game where your choices determine the fate of a crumbling fortress
     <br />
     <a href="https://github.com/DobruyPez/WallsOfFate"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/DobruyPez/WallsOfFate/issues/new?labels=bug">Report Bug</a>
-    &middot;
-    <a href="https://github.com/DobruyPez/WallsOfFate/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
@@ -112,14 +107,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
-
-<a href="https://github.com/DobruyPez/WallsOfFate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DobruyPez/WallsOfFate" alt="contrib.rocks image" />
-</a>
-
-
 
 <!-- LICENSE -->
 ## License
