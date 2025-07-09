@@ -13,9 +13,9 @@
     <a href="https://github.com/DobruyPez/WallsOfFate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DobruyPez/WallsOfFate/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/DobruyPez/WallsOfFate/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/DobruyPez/WallsOfFate/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/DobruyPez/WallsOfFate/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
@@ -115,7 +115,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/DobruyPez/WallsOfFate.git/graphs/contributors">
+<a href="https://github.com/DobruyPez/WallsOfFate/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DobruyPez/WallsOfFate" alt="contrib.rocks image" />
 </a>
 
@@ -140,6 +140,7 @@ Project Link: [https://github.com/DobruyPez/WallsOfFate.git](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 
 [Unity-badge]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 [Unity-url]: https://unity.com/
